@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+input{
+  display: block;
+  
+}
+
+
+a{
+  text-decoration: none;
+}
+#a{
+  color: red;
+  font-weight: bold;
+  /* text-shadow: 0px 0px 5px rgb(0 0 0); */
+  font-size: 18px;
+  text-align: center;
+  width: 20rem;
+  background-color: wheat;
+  height: 2rem;
+  border-radius: 6px;
+  display: none;
+}
